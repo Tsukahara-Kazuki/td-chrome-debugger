@@ -18,8 +18,8 @@
 3. `td-chrome-debugger.crx` をChromeのウィンドウにドラッグ＆ドロップします
 
 ### B. 非パッケージ状態からインストールする
-1. このリポジトリをクローンするかダウンロードします
-2. Chromeの機能拡張ページを開きます
+1. このリポジトリをクローンするか[ダウンロード](https://github.com/treasure-data/td-chrome-debugger/archive/refs/heads/master.zip)します
+2. Chromeの[機能拡張ページ](chrome://extensions/)を開きます
 3. 「デベロッパーモード」を有効にします
 4. 「パッケージ化されていない機能拡張を読み込む」をクリックし、コンピュータ上のこのソースコードのあるディレクトリを指定します
 

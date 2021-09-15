@@ -18,8 +18,8 @@
 3. Drag & drop `td-chrome-debugger.crx` to the Chrome window.
 
 ### B. Install from un-packaged files
-1. Clone or Download this repository.
-2. Open Chrome's extension page.
+1. Clone or [Download](https://github.com/treasure-data/td-chrome-debugger/archive/refs/heads/master.zip) this repository.
+2. Open [Chrome's extension page](chrome://extensions/).
 3. Enable "Developer Mode".
 4. Click "Load Unpackaged Extension" and point a directory of this source code on your computer.
 
